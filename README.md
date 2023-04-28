@@ -1,3 +1,3 @@
-# job-tracker
+# Job Tracker
 
 Soon...
