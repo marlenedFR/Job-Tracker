@@ -12,6 +12,8 @@ Nous avons disposé de 4 semaines réparties sur 4 sprints :
 
 -- incorporer GIF CDC --
 
+![CDC-gif](https://user-images.githubusercontent.com/103967514/236640381-728ecb71-5ad0-4010-ab95-e5c58ff0ab8c.gif)
+
 - Sprint 2 : première structure du projet. En tant que lead dev front, mon rôle à ce niveau a été de découper l'application, de penser et créer les routes, le design, la navigation et l'authentification. J'ai utilisé React Router, React Auth Kit, Formik et Axios. A la fin de ce sprint, la navigation était fonctionnelle ainsi que l'authentification.
 
 -- incorporer GIF connexion et barre de nav --
