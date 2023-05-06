@@ -2,7 +2,7 @@
 
 Le projet Job Tracker est un projet de fin d'études réalisé dans le cadre de la formation de développeur web et web mobile dispensée par l'école O'Clock.
 
-L'idée de cette application est de permettre à un utilisateur qui recherche un stage, une alternance, ou un emploi de suivre facilement ses candidatures et ses lettres de motivations.
+Le but de cette application est de permettre à un utilisateur qui recherche un stage, une alternance, ou un emploi de suivre facilement ses candidatures et ses lettres de motivations.
 
 L'équipe était composée de 4 élèves, 2 élèves côté back et 1 élève et moi-même côté front.
 
