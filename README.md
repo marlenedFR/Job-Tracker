@@ -14,7 +14,7 @@ Nous avons disposé de 4 semaines réparties sur 4 sprints :
 
 - Sprint 2 : première structure du projet. En tant que lead dev front, mon rôle à ce niveau a été de découper l'application, de penser et créer les routes, le design, la navigation et l'authentification. J'ai choisi React Router, React Auth Kit, Formik et Axios. A la fin de ce sprint, la navigation était fonctionnelle ainsi que l'authentification.
 
-https://github.com/marlenedFR/job-tracker/assets/103967514/6b893818-4f5f-47fd-8168-e5297730a4b5
+https://github.com/marlenedFR/job-tracker/assets/103967514/4a889d8e-a1ad-4ee8-aea9-ed03971b7e1e
 
 
 - Sprint 3 : ajout de pages et de fonctionnalités. Je vais un peu plus loin dans le design en améliorant le responsive grâce notamment au kit Material UI que j'ai sélectionné pour sa simplicité. Côté back, l'inscription fonctionne et grâce au token récupéré, un utilisateur peut ajouter des élements, les modifier et les supprimer.
