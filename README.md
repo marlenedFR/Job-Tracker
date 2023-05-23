@@ -19,7 +19,7 @@ https://github.com/marlenedFR/job-tracker/assets/103967514/4a889d8e-a1ad-4ee8-ae
 
 - Sprint 3 : ajout de pages et de fonctionnalités. Je vais un peu plus loin dans le design en améliorant le responsive grâce notamment au kit Material UI que j'ai sélectionné pour sa simplicité. Côté back, l'inscription fonctionne et grâce au token récupéré, un utilisateur peut ajouter des élements, les modifier et les supprimer.
 
--- incorporer GIF accueil, footer, profil, dashboard --
+https://github.com/marlenedFR/job-tracker/assets/103967514/61a350d6-75c7-4264-818c-a2bf6b13e14b
 
 - Sprint 4 : optimisation et derniers réglages. J'ajoute Open Street Map sur la page profil, les statistiques, une page 404, je créée un thème material UI pour optimiser le code le plus possible. La semaine se termine avec des tests unitaires. Tout est fonctionnel. Le MVP prévu au début a été livré dans les temps. 
 
