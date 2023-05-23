@@ -18,9 +18,8 @@ Nous avons disposé de 4 semaines réparties sur 4 sprints :
 
 - Sprint 3 : ajout de pages et de fonctionnalités. Je vais un peu plus loin dans le design en améliorant le responsive grâce notamment au kit Material UI que j'ai sélectionné pour sa simplicité. Côté back, l'inscription fonctionne et grâce au token récupéré, un utilisateur peut ajouter des élements, les modifier et les supprimer.
 
-https://github.com/marlenedFR/job-tracker/assets/103967514/e6ffa6bf-cc4a-4c2d-828b-1f5403f8b716
+![sprint3](https://github.com/marlenedFR/Job-Tracker/assets/103967514/f03c701b-05f6-4aaa-b6cc-b7c1f8f83dde)
 
 - Sprint 4 : optimisation et derniers réglages. J'ajoute Open Street Map sur la page profil, les statistiques, une page 404, je créée un thème material UI pour optimiser le code le plus possible. La semaine se termine avec des tests unitaires. Tout est fonctionnel. Le MVP prévu au début a été livré dans les temps. 
 
-https://github.com/marlenedFR/job-tracker/assets/103967514/6e45ddee-67f3-44ca-adbd-b7b1ad751bbd
-
+![sprint4](https://github.com/marlenedFR/Job-Tracker/assets/103967514/d6e84dbd-1b33-4bb1-bf5f-d27da7d9675d)
