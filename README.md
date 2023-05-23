@@ -12,7 +12,7 @@ Nous avons disposé de 4 semaines réparties sur 4 sprints :
 
 ![CDC-gif](https://user-images.githubusercontent.com/103967514/236640381-728ecb71-5ad0-4010-ab95-e5c58ff0ab8c.gif)
 
-- Sprint 2 : première structure du projet. En tant que lead dev front, mon rôle à ce niveau a été de découper l'application, de penser et créer les routes, le design, la navigation et l'authentification. J'ai choisi React Router, React Auth Kit, Formik et Axios. A la fin de ce sprint, la navigation était fonctionnelle ainsi que l'authentification.
+- Sprint 2 : première structure du projet. En tant que lead dev front, mon rôle à ce niveau a été de découper l'application, de penser et créer les routes, le design, la navigation et l'authentification. J'ai choisi React Router, React Auth Kit, Formik et Axios. À la fin de ce sprint, la navigation était fonctionnelle ainsi que l'authentification.
 
 https://github.com/marlenedFR/job-tracker/assets/103967514/4a889d8e-a1ad-4ee8-aea9-ed03971b7e1e
 
@@ -22,5 +22,5 @@ https://github.com/marlenedFR/job-tracker/assets/103967514/e6ffa6bf-cc4a-4c2d-82
 
 - Sprint 4 : optimisation et derniers réglages. J'ajoute Open Street Map sur la page profil, les statistiques, une page 404, je créée un thème material UI pour optimiser le code le plus possible. La semaine se termine avec des tests unitaires. Tout est fonctionnel. Le MVP prévu au début a été livré dans les temps. 
 
-
+https://github.com/marlenedFR/job-tracker/assets/103967514/6e45ddee-67f3-44ca-adbd-b7b1ad751bbd
 
